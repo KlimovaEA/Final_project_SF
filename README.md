@@ -54,11 +54,11 @@
 - Построение моделей машинного обучения
 
 ### 3. Краткая информация о данных
-- diplom_data.exl - датасет содержит данные об объектах недвижимости США 
+- diplom_data.csv - датасет содержит данные об объектах недвижимости США 
 - 1_Final_Diplom_EDA.ipynb - Jupiter Notebook с проектом (этап EDA)
 - 2_Final_Diplom_model.ipynb - Jupiter Notebook с проектом (этап моделирования)
-- cleaned_data_diplom.exl - очищенный датасет
-- data_model_diplom.exl -датасет, подготовленный для моделирования
+- cleaned_data_diplom.csv - очищенный датасет
+- data_model_diplom.csv -датасет, подготовленный для моделирования
 - server.py - сервер на Flask
 - client.py - клиент для тестирования
 - requirements.txt -зафиксированные версии зависимостей 
